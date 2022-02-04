@@ -1,4 +1,4 @@
-module github.com/shlokster/Golang-Blockchain
+module github.com/shlokster/restapi
 
 go 1.17
 

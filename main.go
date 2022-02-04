@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/shlokster/Golang-Blockchain/blockchain"
+	"github.com/shlokster/restapi/blockchain"
 )
 
 func main() {
