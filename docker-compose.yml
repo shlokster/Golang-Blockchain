@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  restapi:
+    container_name: restapi
+    restart: unless-stopped
+    build: restapi 
+    ports:
+      - "8080:8080"
